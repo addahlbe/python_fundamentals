@@ -1,0 +1,6 @@
+Things to remember with files!
+close -- Closes the file. like File ->save.. in your editor.
+read -- Reads the contents of the file, you can assign the result to a variable.
+readline -- Reads just one line of a text file.
+truncate -- Empties this file, watch out if you care about the file.
+write(stuff) -- writes stuff to the file.
