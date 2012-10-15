@@ -7,3 +7,4 @@ Exercise 16: Files Files and more Files
 Exercise 18: Basic Functions
 Exercise 25: Importing files and their functions. Plus the Help feature.
 ^***Help feature***^ help returns all the functions in the imported file.
+Exercise 30: if, else, elif (else if)
