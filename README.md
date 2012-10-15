@@ -9,3 +9,4 @@ Exercise 25: Importing files and their functions. Plus the Help feature.
 ^***Help feature***^ help returns all the functions in the imported file.
 Exercise 30: if, else, elif (else if)
 **Exercise 37: global variables, and how to edit them inside functions**
+Exercise 38: String to Lists and Visa Versa + string and list functions
