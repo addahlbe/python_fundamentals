@@ -10,3 +10,5 @@ Exercise 25: Importing files and their functions. Plus the Help feature.
 Exercise 30: if, else, elif (else if)
 **Exercise 37: global variables, and how to edit them inside functions**
 Exercise 38: String to Lists and Visa Versa + string and list functions
+Exercise 39: Hash Tables vs. Lists
+**Exercise 41: Good Class definitions practice
