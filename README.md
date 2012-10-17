@@ -12,3 +12,4 @@ Exercise 30: if, else, elif (else if)
 Exercise 38: String to Lists and Visa Versa + string and list functions
 Exercise 39: Hash Tables vs. Lists
 **Exercise 41: Good Class definitions practice
+Exercise 44: Inheritance types- Implicit vs Explicit
