@@ -1,0 +1,1 @@
+#Exercise 46: A project skeleton. View Exercise 46 folder hierarchy.
