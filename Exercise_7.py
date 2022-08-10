@@ -19,6 +19,7 @@ end9 = "r"
 end10 = "g"
 end11 = "e"
 end12 = "r"
+end13= "test"
 
 #watch that comma at the end. try removing it to see what happens
 print end1 + end2 + end3 + end4 + end5 + end6,
